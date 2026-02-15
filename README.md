@@ -1,7 +1,7 @@
 <p align="center">
   <img src="profile-banner.png" alt="CoderHere07 Banner" width="100%">
 </p>
-## 💫 About Me:
+## 💫 About Me:<br><br>
 🔭 I’m currently working on: React Native and MERN stack projects<br><br>👯 I’m looking to collaborate on: Game development and creative app projects<br><br>🤝 I’m looking for help with: Problem-solving, coding challenges, and tech-related ideas<br><br>🌱 I’m currently learning: React Native and modern web tools<br><br>💬 Ask me about: Coding, debugging, and creative problem-solving<br><br>⚡ Fun fact: I hate math 😅 but we’re best friends when it comes to coding!
 
 
