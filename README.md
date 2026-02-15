@@ -4,13 +4,6 @@
 
 # 👋 Hi, I'm CoderHere07!
 
-<p align="center">
-  <img src="https://view-counter.api.fnkr.net/v1/counter/github/CoderHere07" alt="Visitor Count">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoderHere07&theme=radical&no-frame=true&margin-w=15" alt="CoderHere07 Trophies" /></a>
-</p>
 
 ---
 
